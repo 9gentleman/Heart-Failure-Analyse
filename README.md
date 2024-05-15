@@ -26,3 +26,14 @@ To use the project, follow these steps:
 Contribution
 --------------------------------------------------
 To contribute to this project, please create a GitHub account, fork the project, make your changes, and then submit a pull request to integrate your changes into the project.
+
+
+Lıcense
+--------------------------------------------------
+"Data Attribution"
+
+## Dataset
+
+The dataset used in this project is obtained from the "Train Dataset" shared by the user Vallabh20 on Kaggle. 
+You can access the dataset [here](https://www.kaggle.com/datasets/vallabh20/traindataset).
+
