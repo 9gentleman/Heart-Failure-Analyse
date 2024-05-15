@@ -1,5 +1,5 @@
 # Importance of Weight in Heart Failure
-This project aims to investigate the relationship between weight gain and blood pressure changes in patients with heart failure.
+This project aims to analyze the relationship between individuals' weights and their blood pressure values. By examining these factors together, the project seeks to understand how changes in weight may affect blood pressure levels. Through data analysis and visualization, the project explores patterns and correlations between weight and blood pressure, providing insights into the potential impact of weight changes on cardiovascular health.
 
 Dependencies
 --------------------------------------------------
