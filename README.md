@@ -30,9 +30,7 @@ To contribute to this project, please create a GitHub account, fork the project,
 
 Lıcense
 --------------------------------------------------
-"Data Attribution"
-
-## Dataset
+## Dataset Attribution
 
 The dataset used in this project is obtained from the "Train Dataset" shared by the user Vallabh20 on Kaggle. 
 You can access the dataset [here](https://www.kaggle.com/datasets/vallabh20/traindataset).
