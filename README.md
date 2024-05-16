@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 Dataset
 --------------------------------------------------
-The dataset is provided in both Excel and CSV formats. You can find the dataset files named data.xlsx and data.csv respectively.
+The dataset is provided in both Excel and CSV formats. You can find the dataset files named cardio_train.xlsx and cardio_train.csv respectively.
 
 Usage
 --------------------------------------------------
